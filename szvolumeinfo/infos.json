@@ -1,0 +1,11 @@
+{
+  "displayName" : "Volume Info",
+  "author" : ["Stefan ZIDAR"],
+  "contributor" : [],
+  "supportedAgent" : ["Windows"],
+  "version" : "1.0",
+  "licence" : "GPLv2",
+  "description" : {
+    "en" : "Show volume infos of windows machines"
+  }
+}

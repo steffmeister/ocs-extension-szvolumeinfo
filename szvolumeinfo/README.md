@@ -1,0 +1,2 @@
+# szvolumeinfo
+Retrieve Volume Info

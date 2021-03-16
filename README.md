@@ -9,3 +9,9 @@ OCS Extension to get Windows volume infos
 It may asks you about a directory for plugins, eg "/var/lib/ocsinventory-reports/extensions/" and a server location path, eg "/etc/ocsinventory/ocsinventory-server".
 - Restart the web server
 - distribute the vbs (located in agent subdirectory here) among your clients (eg GPO).
+
+More information also found here: https://wiki.ocsinventory-ng.org/10.Plugin-engine/Using-plugins-installer/
+
+## About
+
+You can find more information about me or other software on my homepage: https://software.steffmeister.at/

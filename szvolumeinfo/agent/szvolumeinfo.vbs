@@ -21,6 +21,7 @@ Option Explicit
 On Error Resume Next
 
 '====================================================
+dim objFSO, colDrives, objDrive
 Set objFSO = CreateObject("Scripting.FileSystemObject")
 Set colDrives = objFSO.Drives
 dim volume_info
